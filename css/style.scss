@@ -182,7 +182,7 @@ section#top {
   }
   .top-image {
     grid-column: span 2;
-    background-image: url("../assets/Photos/topimage.jpg");
+    background-image: url(../assets/Photos/topimage.jpg);
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -196,7 +196,7 @@ section#about {
 }
 
 section#specialty {
-  background-image: url("../assets/Photos/texture-background/99.jpg");
+  background-image: url(../assets/Photos/texture-background/99.jpg);
   padding: 1em;
   h1 {
     font-size: 3em;
@@ -278,7 +278,7 @@ section#item {
 //Start drinks.html styling
 .barBackground {
   background-image: linear-gradient(rgba(255, 255, 255, 0.8)),
-    url("..assets/Photos/bar.jpg");
+    url(../assets/Photos/bar.jpg);
   background-size: cover;
 }
 
